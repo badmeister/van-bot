@@ -5,8 +5,3 @@ This is an abandoned python discord bot, mostly for learning purposes.
 Python 3.5+
 <br/>
 discord.py (https://github.com/Rapptz/discord.py)
-
-# Other useful stuff
-PyNaCl
-<br/>
-dnspython
