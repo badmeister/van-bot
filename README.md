@@ -1,5 +1,5 @@
 # Van
-This is an abandoned python discord bot, mostly for learning purposes.
+This is a boiler plate discord.py bot for those who want a reference for learning.
 
 # Dependencies
 Python 3.5+
